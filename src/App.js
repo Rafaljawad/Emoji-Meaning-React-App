@@ -26,7 +26,6 @@ function App() {
           Copyright© {year} <a href="https://emojipedia.org/">Emojipedia</a>
         </p>
       </footer>
-      <p>hello</p>
     </div>
   );
 }
